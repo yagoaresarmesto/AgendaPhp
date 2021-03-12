@@ -1,0 +1,3 @@
+Tuve que meter todo en la misma carpeta porque no había manera
+de que me visualizase la imagenes. Supongo que si lo hicimos 
+con MySql tenemos que enseñar la práctica en clase.
